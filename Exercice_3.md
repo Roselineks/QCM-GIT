@@ -24,7 +24,7 @@ Quelle est la principale différence entre Git et GitHub?
 
 `Reponse: B` 
   Résultat: - B) Git est un système de contrôle de version, tandis que GitHub est une plateforme de collaboration
-Resultat :B
+Resultat :D
   B
 
 #### Question 3
@@ -230,3 +230,6 @@ Pour annuler un commit spécifique en gardant les modifications dans votre espac
 A
 
 - **Réponse Correcte: C** - `git reset --soft [hash-du-commit]` permet de revenir au commit spécifié tout en gardant les modifications dans votre espace de travail.
+
+
+
